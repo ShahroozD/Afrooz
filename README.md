@@ -38,7 +38,7 @@ Follow these steps to set up and start using **Afrooz**.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ShahroozD/afrooz.git
+   git clone https://github.com/ShahroozD/Afrooz.git
    cd afrooz
    ```
 
@@ -59,10 +59,10 @@ Afrooz/
 ├── src/
 │   ├── Pages/
 │   │   ├── main/
-│   │   │   ├── MainPage.jsx
+│   │   │   ├── index.jsx
 │   │   │   ├── render.jsx
 │   │   ├── 404/
-│   │       ├── NotFoundPage.jsx
+│   │       ├── index.jsx
 │   │       ├── render.jsx
 │   ├── utils/
 │   │   ├── renderUtils.js
@@ -179,7 +179,7 @@ Enjoy building amazing static sites with **Afrooz**! 🚀
 1. مخزن را کلون کنید:
 
    ```bash
-   git clone https://github.com/ShahroozD/afrooz.git
+   git clone https://github.com/ShahroozD/Afrooz.git
    cd afrooz
    ```
 
@@ -200,10 +200,10 @@ Afrooz/
 ├── src/
 │   ├── Pages/
 │   │   ├── main/
-│   │   │   ├── MainPage.jsx
+│   │   │   ├── index.jsx
 │   │   │   ├── render.jsx
 │   │   ├── 404/
-│   │       ├── NotFoundPage.jsx
+│   │       ├── index.jsx
 │   │       ├── render.jsx
 │   ├── utils/
 │   │   ├── renderUtils.js
