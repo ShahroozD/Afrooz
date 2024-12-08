@@ -1,0 +1,18 @@
+
+html{
+    scroll-behavior:smooth;
+    
+    body{
+        font-family: "Roboto", sans-serif, "Vazirmatn";
+        font-weight: 300;
+        font-size: 15px;
+        margin: 0;
+        position: relative;
+
+        &.rtl{
+            direction: rtl;
+            font-family: "Vazirmatn", "Roboto", sans-serif ;
+        }
+        
+    }
+}
