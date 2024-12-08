@@ -39,7 +39,7 @@ Follow these steps to set up and start using **Afrooz**.
 
    ```bash
    git clone https://github.com/ShahroozD/Afrooz.git
-   cd afrooz
+   cd Afrooz
    ```
 
 2. Install dependencies:
@@ -138,8 +138,6 @@ Contributions are welcome! If you have ideas for improvement or want to report i
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
 Enjoy building amazing static sites with **Afrooz**! 🚀
 
 
@@ -180,7 +178,7 @@ Enjoy building amazing static sites with **Afrooz**! 🚀
 
    ```bash
    git clone https://github.com/ShahroozD/Afrooz.git
-   cd afrooz
+   cd Afrooz
    ```
 
 2. وابستگی‌ها را نصب کنید:
@@ -279,7 +277,5 @@ Afrooz/
 ## مجوز
 
 این پروژه تحت مجوز MIT منتشر شده است - برای جزئیات به فایل [LICENSE](LICENSE) مراجعه کنید.
-
----
 
 از توسعه صفحات استاتیک با **افروز** لذت ببرید! 🚀
